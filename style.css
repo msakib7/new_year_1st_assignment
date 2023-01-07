@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Work Sans", sans-serif;
+}
+
+/* ..........banner....... */
+.banner {
+  background-image: url("./images/banner/banner2.png");
+  background-repeat: no-repeat;
+  padding: 220px 230px;
+  text-align: right;
+}
+.section-title {
+  font-weight: 700;
+  font-size: 65px;
+  text-align: right;
+  margin-bottom: 24px;
+}
+.banner-description {
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 25px;
+}
+.banner-btn {
+  width: 160px;
+  height: 64px;
+  background-color: #f15b22;
+  border: none;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+/* .........previous-year....... */
+.previous-year {
+  margin-top: 130px;
+  display: flex;
+  margin-left: 200px;
+}
+.last-year {
+  padding: 130px 100px;
+  gap: 20px;
+  margin-top: 120px;
+}
+.last-year-img img {
+}
+.last year .last-year-title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  text-align: left;
+}
+.last-year-description {
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  margin-top: 24px;
+  margin-bottom: 16px;
+  text-align: left;
+}
+.last-year ul {
+  margin-left: 10px;
+}
+.last-year li {
+  margin-top: 8px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+/* ............plan section........ */
+.plan {
+  padding: 130px 150px;
+}
+.plan-title {
+  text-align: center;
+  margin-bottom: 55px;
+  font-weight: 700;
+  font-size: 40px;
+}
+.plan-container {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+.single-container {
+}
+.plan-img {
+}
+.plan-sub-title {
+    margin-top: 20px;
+    margin-bottom: 16px;
+}
+.plan-description {
+}
